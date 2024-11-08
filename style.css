@@ -1,3 +1,18 @@
+@font-face {
+    font-family: gilroysemi;
+    src: url('fonts/Gilroy-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: gilroylight;
+    src: url('fonts/Gilroy-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: gilroy;
+    src: url('fonts/Gilroy-SemiBold.ttf');
+}
+
 * {
     margin: 0;
     padding: 0;
